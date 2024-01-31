@@ -1,7 +1,17 @@
 ---
-title: "PrivacyConfidentialityIG.github.io"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## We Look Forward to Collaborating With You 
+
+To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentiality.GitHub.io/about.html) and [Join](https://PrivacyConfidentiality.GitHub.io/join.html) pages. Stay connected with us for the latest news and opportunities by following our Mastodon handle: [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG).
+
+## Contact Us
+
+You can reach us through the following platforms:
+
+- Email: [amstat.pcig@gmail.com](mailto:amstat.pcig@gmail.com)
+- GitHub: [PrivacyConfidentialityIG](https://github.com/PrivacyConfidentialityIG)
+- Mastodon: [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG)

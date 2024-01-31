@@ -1,17 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "PrivacyConfidentialityIG.github.io"
+  title: "ASA Privacy & Confidentiality Interest Group"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - join.qmd
       - about.qmd
+      - news.qmd
+      - events.qmd
+      - resources.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 

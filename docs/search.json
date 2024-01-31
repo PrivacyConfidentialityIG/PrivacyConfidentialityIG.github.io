@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview, transcending geographical boundaries and fostering a global community of statisticians."
+  },
+  {
+    "objectID": "about.html#membership-information",
+    "href": "about.html#membership-information",
+    "title": "About",
+    "section": "Membership Information",
+    "text": "Membership Information\nWe welcome anyone interested in the field of statistical data privacy and confidentiality. Our members are a diverse group of individuals from various sectors, including industry, government, and academia. To join us, please visit our Join page."
+  },
+  {
+    "objectID": "about.html#leadership-and-committees",
+    "href": "about.html#leadership-and-committees",
+    "title": "About",
+    "section": "Leadership and Committees",
+    "text": "Leadership and Committees\nInformation regarding leadership and committees will be posted soon."
+  },
+  {
+    "objectID": "about.html#about-the-asa",
+    "href": "about.html#about-the-asa",
+    "title": "About",
+    "section": "About the ASA",
+    "text": "About the ASA\nThe ASA, established in 1839 in Boston, is the second oldest professional association in the United States that is still in operation. It is recognized as the largest global community of statisticians, often referred to as the “Big Tent for Statistics.” The ASA is dedicated to promoting excellence in the creation, application, and distribution of statistical science. This is achieved through various means such as organizing meetings, publishing research, providing services to members, offering education, granting accreditation, and advocating for the field.\nIn addition to these, the ASA also provides professional development programs for early-career statisticians and data scientists. It offers a platform for its members to connect with a global community of statisticians working in various sectors including industry, government, and academia. These members contribute to advancing research, promoting sound statistical practice, informing public policy, and improving human welfare."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Don’t miss out on our upcoming events! Whether we’re hosting, sponsoring, or attending, we’d love for you to join us. Check out the table below for more details."
+  },
+  {
+    "objectID": "events.html#upcoming-schedule",
+    "href": "events.html#upcoming-schedule",
+    "title": "Events",
+    "section": "Upcoming Schedule",
+    "text": "Upcoming Schedule\n\n\n\nDate\nEvent\n\n\n\n\nSeptember 13-14, 2024\nSave the Date – Join us for the first Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. Presentation abstracts must be submitted by February 29, 2024. For more details, visit https://privacypublicpolicy-conference.github.io/website/."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development."
+  },
+  {
+    "objectID": "index.html#we-look-forward-to-collaborating-with-you",
+    "href": "index.html#we-look-forward-to-collaborating-with-you",
+    "title": "Welcome!",
+    "section": "We Look Forward to Collaborating With You",
+    "text": "We Look Forward to Collaborating With You\nTo learn more about our initiatives and how you can contribute, please visit our About and Join pages. Stay connected with us for the latest news and opportunities by following our Mastodon handle: @PrivacyConfidentialityIG."
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Welcome!",
+    "section": "Contact Us",
+    "text": "Contact Us\nYou can reach us through the following platforms:\n\nEmail: amstat.pcig@gmail.com\nGitHub: PrivacyConfidentialityIG\nMastodon: @PrivacyConfidentialityIG"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "Become a part of our community! We welcome all researchers and practitioners with a shared interest in statistical data privacy and confidentiality. Fill out our membership form (link to be added/embedded) to join our group and contribute to our initiatives."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Stay updated with the latest developments in our Interest Group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community."
+  },
+  {
+    "objectID": "news.html#feed",
+    "href": "news.html#feed",
+    "title": "News",
+    "section": "Feed",
+    "text": "Feed\n\n\n\nDate\nNews Item\n\n\n\n\n2023\nThe ASA Privacy & Confidentiality Interest Group was founded by Saki Kinney and Claire McKay Bowen!"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Searching for statistical data privacy resources? You’re in the right place. Here we provide a range of resources, from CRAN packages to influential articles."
+  },
+  {
+    "objectID": "resources.html#articles",
+    "href": "resources.html#articles",
+    "title": "Resources",
+    "section": "Articles",
+    "text": "Articles\n\nA Statistical Framework for Differential Privacy (2012) by Larry Wasserman and Shuheng Zhou\nAdvances and Open Problems in Federated Learning by Peter Kairouz et al.\nBalancing Data Privacy and Usability in the Federal Statistical System (2022) by V. Joseph Hotz et al.\nFederated Learning: Challenges, Methods, and Future Directions (2020) by Tian Li et al.\nHow Statisticians Should Grapple with Privacy in a Changing Data Landscape (2020) by Joshua Snoke and Claire McKay Bowen\nPolicy Impacts of Statistical Uncertainty and Privacy (2022) by Ryan Steed et al.\nPrivacy-Preserving Data Analysis for the Federal Statistical Agencies (2017) by John Abowd et al.\nStatistical Data Privacy: A Song of Privacy and Utility (2023) by Aleksandra Slavković and Jeremy Seeman"
+  },
+  {
+    "objectID": "resources.html#books-and-book-chapters",
+    "href": "resources.html#books-and-book-chapters",
+    "title": "Resources",
+    "section": "Books and Book Chapters",
+    "text": "Books and Book Chapters\n\nStatistical Disclosure Control for Survey Data (2009) by Chris Skinner\nProtecting Your Privacy in a Data-Driven World (2021) by Claire McKay Bowen"
+  },
+  {
+    "objectID": "resources.html#cran-r-packages",
+    "href": "resources.html#cran-r-packages",
+    "title": "Resources",
+    "section": "CRAN (R) Packages",
+    "text": "CRAN (R) Packages\n\nacro: A Tool for Automating the Statistical Disclosure Control of Research Outputs\nAQuadtree: Confidentiality of Spatial Point Data\ncellKey: Consistent Perturbation of Statistical Frequency and Magnitude Tables\ndiffpriv: Easy Differential Privacy\nduawranglr: Securely Wrangle Dataset According to Data Usage Agreement\neasySdcTable: Easy Interface to the Statistical Disclosure Control Package ‘sdcTable’ Extended with Own Implementation of ‘GaussSuppression’\npda: Privacy-Preserving Distributed Algorithms\nppmf: Read Census Privacy Protected Microdata Files\nppmHR: Privacy-Protecting Hazard Ratio Estimation in Distributed Data Networks\nPPRL: Privacy Preserving Record Linkage\nRegSDC: Information Preserving Regression-Based Tools for Statistical Disclosure Control\nsdcHierarchies: Create and (Interactively) Modify Nested Hierarchies\nsdcLog: Tools for Statistical Disclosure Control in Research Data Centers\nSDCNWay: Tools to Evaluate Disclosure Risk\nsdcSpatial: Statistical Disclosure Control for Spatial Data\nsdcTable: Methods for Statistical Disclosure Control in Tabular Data\nsynthpop: Generating Synthetic Versions of Sensitive Microdata for Statistical Disclosure Control\nuwedragon: Data Research, Access, Governance Network : Statistical Disclosure Control"
+  },
+  {
+    "objectID": "resources.html#python-packages",
+    "href": "resources.html#python-packages",
+    "title": "Resources",
+    "section": "Python Packages",
+    "text": "Python Packages\n\ndifferential-privacy: Google’s Differential Privacy Libraries\ndiffprivlib: General-Purpose Library for Experimenting with, Investigating, and Developing Applications in, Differential Privacy\nopendp: The Core Library of Differential Privacy Algorithms Powering the OpenDP Project\npipeline-dp: Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More\npysyft: Perform Data Science on Data that Remains in Someone Else’s Server\npython-dp: OpenMined’s Python Differential Privacy Library\ntensorflow-privacy: Library for Training Machine Learning Models with Privacy for Training Data"
+  },
+  {
+    "objectID": "resources.html#additional-resources",
+    "href": "resources.html#additional-resources",
+    "title": "Resources",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nIf you have additional resources that you’d like to share on this page, join our group and let us know on our discussion forum."
+  }
+]

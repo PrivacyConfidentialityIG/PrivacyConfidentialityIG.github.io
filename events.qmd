@@ -1,0 +1,12 @@
+---
+title: "Events"
+---
+
+Don’t miss out on our upcoming events! Whether we’re hosting, sponsoring, or attending, we’d love for you to join us. Check out the table below for more details.
+
+## Upcoming Schedule
+
+| Date       | Event     |
+|------------|-----------|
+| September 13-14, 2024 | Save the Date -- Join us for the first Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. Presentation abstracts must be submitted by February 29, 2024. For more details, visit <https://privacypublicpolicy-conference.github.io/website/>. |
+

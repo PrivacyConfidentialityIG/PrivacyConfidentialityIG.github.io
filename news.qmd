@@ -1,0 +1,11 @@
+---
+title: "News"
+---
+
+Stay updated with the latest developments in our Interest Group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community.
+
+## Feed
+
+| Date       | News Item |
+|------------|-----------|
+| 2023 | The ASA Privacy & Confidentiality Interest Group was founded by [Saki Kinney](https://www.linkedin.com/in/saki-kinney-7236324/) and [Claire McKay Bowen](https://clairemckaybowen.com)! |

@@ -1,0 +1,56 @@
+---
+title: "Resources"
+---
+
+Searching for statistical data privacy resources? You’re in the right place. Here we provide a range of resources, from CRAN packages to influential articles.
+
+## Articles
+
+- [A Statistical Framework for Differential Privacy](https://doi.org/10.1198/jasa.2009.tm08651) (2012) by Larry Wasserman and Shuheng Zhou
+- [Advances and Open Problems in Federated Learning](https://www.nowpublishers.com/article/Details/MAL-083) by Peter Kairouz et al.
+- [Balancing Data Privacy and Usability in the Federal Statistical System](https://www.pnas.org/doi/full/10.1073/pnas.2104906119) (2022) by V. Joseph Hotz et al.
+- [Federated Learning: Challenges, Methods, and Future Directions](https://ieeexplore.ieee.org/document/9084352) (2020) by Tian Li et al.
+- [How Statisticians Should Grapple with Privacy in a Changing Data Landscape](https://chance.amstat.org/2020/11/changing-data-landscape/) (2020) by Joshua Snoke and Claire McKay Bowen
+- [Policy Impacts of Statistical Uncertainty and Privacy](https://www.science.org/doi/10.1126/science.abq4481) (2022) by Ryan Steed et al.
+- [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://cra.org/ccc/wp-content/uploads/sites/2/2015/01/CCCPrivacyTaskForcePaperRevised-FINAL.pdf) (2017) by John Abowd et al.
+- [Statistical Data Privacy: A Song of Privacy and Utility](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-033121-112921) (2023) by Aleksandra Slavković and Jeremy Seeman
+
+## Books and Book Chapters
+
+- [Statistical Disclosure Control for Survey Data](https://www.sciencedirect.com/science/article/abs/pii/S0169716108000151) (2009) by Chris Skinner
+- [Protecting Your Privacy in a Data-Driven World](https://www.amazon.com/Protecting-Privacy-Data-Driven-Statistical-Reasoning-ebook/dp/B09JM4LTJ7/) (2021) by Claire McKay Bowen
+
+## CRAN (R) Packages
+
+- [acro](https://cran.r-project.org/web/packages/acro/index.html): A Tool for Automating the Statistical Disclosure Control of Research Outputs
+- [AQuadtree](https://cran.r-project.org/web/packages/AQuadtree/index.html): Confidentiality of Spatial Point Data
+- [cellKey](https://cran.r-project.org/web/packages/cellKey/): Consistent Perturbation of Statistical Frequency and Magnitude Tables
+- [diffpriv](https://cran.r-project.org/web/packages/diffpriv/index.html): Easy Differential Privacy
+- [duawranglr](https://cran.r-project.org/web/packages/duawranglr/index.html): Securely Wrangle Dataset According to Data Usage Agreement
+- [easySdcTable](https://cran.r-project.org/web/packages/easySdcTable/index.html): Easy Interface to the Statistical Disclosure Control Package 'sdcTable' Extended with Own Implementation of 'GaussSuppression'
+- [pda](https://cran.r-project.org/web/packages/pda/index.html): Privacy-Preserving Distributed Algorithms
+- [ppmf](https://cran.r-project.org/web/packages/ppmf/index.html): Read Census Privacy Protected Microdata Files
+- [ppmHR](https://cran.r-project.org/web/packages/ppmHR/index.html): Privacy-Protecting Hazard Ratio Estimation in Distributed Data Networks
+- [PPRL](https://cran.r-project.org/web/packages/PPRL/index.html): Privacy Preserving Record Linkage
+- [RegSDC](https://cran.r-project.org/web/packages/RegSDC/index.html): Information Preserving Regression-Based Tools for Statistical Disclosure Control
+- [sdcHierarchies](https://cran.r-project.org/web/packages/sdcHierarchies/index.html): Create and (Interactively) Modify Nested Hierarchies
+- [sdcLog](https://cran.r-project.org/web/packages/sdcLog/index.html): Tools for Statistical Disclosure Control in Research Data Centers
+- [SDCNWay](https://cran.r-project.org/web/packages/SDCNway/index.html): Tools to Evaluate Disclosure Risk
+- [sdcSpatial](https://cran.r-project.org/web/packages/sdcSpatial/index.html): Statistical Disclosure Control for Spatial Data
+- [sdcTable](https://cran.r-project.org/web/packages/sdcTable/index.html): Methods for Statistical Disclosure Control in Tabular Data
+- [synthpop](https://cran.r-project.org/web/packages/synthpop/index.html): Generating Synthetic Versions of Sensitive Microdata for Statistical Disclosure Control
+- [uwedragon](https://cran.r-project.org/web/packages/uwedragon/index.html): Data Research, Access, Governance Network : Statistical Disclosure Control
+
+## Python Packages
+
+- [differential-privacy](https://github.com/google/differential-privacy): Google's Differential Privacy Libraries
+- [diffprivlib](https://github.com/IBM/differential-privacy-library): General-Purpose Library for Experimenting with, Investigating, and Developing Applications in, Differential Privacy
+- [opendp](https://github.com/opendp/opendp): The Core Library of Differential Privacy Algorithms Powering the OpenDP Project
+- [pipeline-dp](https://github.com/OpenMined/PipelineDP): Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More 
+- [pysyft](https://github.com/OpenMined/PySyft): Perform Data Science on Data that Remains in Someone Else's Server
+- [python-dp](https://github.com/OpenMined/PyDP): OpenMined's Python Differential Privacy Library
+- [tensorflow-privacy](https://github.com/tensorflow/privacy): Library for Training Machine Learning Models with Privacy for Training Data 
+
+## Additional Resources
+
+If you have additional resources that you'd like to share on this page, [join our group](https://PrivacyConfidentialityIG.github.io/join.html) and let us know on [our discussion forum](https://github.com/orgs/PrivacyConfidentialityIG/discussions).
