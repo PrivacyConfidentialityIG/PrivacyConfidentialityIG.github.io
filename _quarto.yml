@@ -13,6 +13,7 @@ website:
       - news.qmd
       - events.qmd
       - resources.qmd
+      - contact.qmd
 
 format:
   html:

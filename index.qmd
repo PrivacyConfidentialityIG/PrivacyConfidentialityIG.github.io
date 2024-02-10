@@ -6,12 +6,8 @@ Welcome to the official website of the Privacy & Confidentiality Interest Group 
 
 ## We Look Forward to Collaborating With You 
 
-To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentiality.GitHub.io/about.html) and [Join](https://PrivacyConfidentiality.GitHub.io/join.html) pages. Stay connected with us for the latest news and opportunities by following our Mastodon handle: [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG).
+- To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentiality.GitHub.io/about.html) and [Join](https://PrivacyConfidentiality.GitHub.io/join.html) pages. 
 
-## Contact Us
+- Stay connected with us for the latest news and opportunities by joining our [GitHub discussion forum](https://github.com/orgs/PrivacyConfidentialityIG/discussions) and following our Mastodon handle, [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG).
 
-You can reach us through the following platforms:
-
-- Email: [amstat.pcig@gmail.com](mailto:amstat.pcig@gmail.com)
-- GitHub: [PrivacyConfidentialityIG](https://github.com/PrivacyConfidentialityIG)
-- Mastodon: [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG)
+- If you have any questions or suggestions for our group, please reach out to us via our [Contact](https://PrivacyConfidentiality.GitHub.io/contact.html) page.

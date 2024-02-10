@@ -2,15 +2,23 @@
 title: "About"
 ---
 
-We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview, transcending geographical boundaries and fostering a global community of statisticians.
+We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group's objectives and structure can be found in [our Charter](https://docs.google.com/document/d/1wguUYj4Xaod9zodN1XKmaREFDtUJ0itL/edit?usp=sharing&ouid=113853387019833133266&rtpof=true&sd=true).
 
 ## Membership Information
 
 We welcome anyone interested in the field of statistical data privacy and confidentiality. Our members are a diverse group of individuals from various sectors, including industry, government, and academia. To join us, please visit [our Join page](https://PrivacyConfidentiality.github.io/join.html).
 
-## Leadership and Committees
+## Leadership Committees
 
-Information regarding leadership and committees will be posted soon.
+| Committee | Members |
+|------|------|
+| Steering | **Saki Kinney**, Claire Bowen, Monika Hu, Alan Karr, Christine Task, Matt Williams, Carlos Soto, Jeremy Seeman, John Abowd, Harrison Quick |
+| Program | **Michael Hawes**, Norm Matloff, Valbona Bejleri, Jordan Awan, Milan Shen |
+| Communications | **Alyssa Columbus**, Jeremy Seeman, Claire Bowen, Milan Shen |
+| Membership | **Christine Task**, Gary Howarth, Mike Jacobsen, Charlotte Looby |
+| Nominations/Elections | **Aref Dajani**, Matt Williams, Monika Hu |
+
+Committee members noted in **bold** above are the chairs of their respective committees.
 
 ## About the ASA
 

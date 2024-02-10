@@ -7,8 +7,9 @@ Searching for statistical data privacy resources? You’re in the right place. H
 ## Articles
 
 - [A Statistical Framework for Differential Privacy](https://doi.org/10.1198/jasa.2009.tm08651) (2012) by Larry Wasserman and Shuheng Zhou
-- [Advances and Open Problems in Federated Learning](https://www.nowpublishers.com/article/Details/MAL-083) by Peter Kairouz et al.
+- [Advances and Open Problems in Federated Learning](https://www.nowpublishers.com/article/Details/MAL-083) (2021) by Peter Kairouz et al.
 - [Balancing Data Privacy and Usability in the Federal Statistical System](https://www.pnas.org/doi/full/10.1073/pnas.2104906119) (2022) by V. Joseph Hotz et al.
+- [Disclosure Control and Random Tabular Adjustment](https://nces.ed.gov/FCSM/pdf/G5_Stinner_2018FCSM.pdf) (2018) by Mark Stinner
 - [Federated Learning: Challenges, Methods, and Future Directions](https://ieeexplore.ieee.org/document/9084352) (2020) by Tian Li et al.
 - [How Statisticians Should Grapple with Privacy in a Changing Data Landscape](https://chance.amstat.org/2020/11/changing-data-landscape/) (2020) by Joshua Snoke and Claire McKay Bowen
 - [Policy Impacts of Statistical Uncertainty and Privacy](https://www.science.org/doi/10.1126/science.abq4481) (2022) by Ryan Steed et al.
