@@ -44,13 +44,14 @@ Searching for statistical data privacy resources? You’re in the right place. H
 
 ## Python Packages
 
-- [differential-privacy](https://github.com/google/differential-privacy): Google's Differential Privacy Libraries
-- [diffprivlib](https://github.com/IBM/differential-privacy-library): General-Purpose Library for Experimenting with, Investigating, and Developing Applications in, Differential Privacy
-- [opendp](https://github.com/opendp/opendp): The Core Library of Differential Privacy Algorithms Powering the OpenDP Project
-- [pipeline-dp](https://github.com/OpenMined/PipelineDP): Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More 
-- [pysyft](https://github.com/OpenMined/PySyft): Perform Data Science on Data that Remains in Someone Else's Server
-- [python-dp](https://github.com/OpenMined/PyDP): OpenMined's Python Differential Privacy Library
-- [tensorflow-privacy](https://github.com/tensorflow/privacy): Library for Training Machine Learning Models with Privacy for Training Data 
+- [Google's Differential Privacy Libraries](https://github.com/google/differential-privacy)
+- [Diffprivlib](https://github.com/IBM/differential-privacy-library): General-Purpose Library for Experimenting with, Investigating, and Developing Applications in Differential Privacy
+- [OpenDP](https://github.com/opendp/opendp): The Core Library of Differential Privacy Algorithms Powering the OpenDP Project
+- [PipelineDP](https://github.com/OpenMined/PipelineDP): Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More 
+- [PySyft](https://github.com/OpenMined/PySyft): Perform Data Science on Data that Remains in Someone Else's Server
+- [PyDP](https://github.com/OpenMined/PyDP): OpenMined's Python Differential Privacy Library
+- [Tensorflow Privacy](https://github.com/tensorflow/privacy): Library for Training Machine Learning Models with Privacy for Training Data 
+- [Tumult Analytics](https://gitlab.com/tumult-labs/analytics): Tumult Labs' Differential Privacy Library, running on PySpark
 
 ## Additional Resources
 

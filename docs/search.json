@@ -102,7 +102,7 @@
     "href": "resources.html#python-packages",
     "title": "Resources",
     "section": "Python Packages",
-    "text": "Python Packages\n\ndifferential-privacy: Google’s Differential Privacy Libraries\ndiffprivlib: General-Purpose Library for Experimenting with, Investigating, and Developing Applications in, Differential Privacy\nopendp: The Core Library of Differential Privacy Algorithms Powering the OpenDP Project\npipeline-dp: Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More\npysyft: Perform Data Science on Data that Remains in Someone Else’s Server\npython-dp: OpenMined’s Python Differential Privacy Library\ntensorflow-privacy: Library for Training Machine Learning Models with Privacy for Training Data"
+    "text": "Python Packages\n\nGoogle’s Differential Privacy Libraries\nDiffprivlib: General-Purpose Library for Experimenting with, Investigating, and Developing Applications in Differential Privacy\nOpenDP: The Core Library of Differential Privacy Algorithms Powering the OpenDP Project\nPipelineDP: Python Framework for Applying Differentially Private Aggregations to Large Datasets Using Batch Processing Systems such as Apache Spark, Apache Beam, and More\nPySyft: Perform Data Science on Data that Remains in Someone Else’s Server\nPyDP: OpenMined’s Python Differential Privacy Library\nTensorflow Privacy: Library for Training Machine Learning Models with Privacy for Training Data\nTumult Analytics: Tumult Labs’ Differential Privacy Library, running on PySpark"
   },
   {
     "objectID": "resources.html#additional-resources",
