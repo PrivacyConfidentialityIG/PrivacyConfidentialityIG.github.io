@@ -4,7 +4,7 @@ title: "Welcome!"
 
 Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development.
 
-## We Look Forward to Collaborating With You 
+## We Look Forward to Collaborating With You!
 
 - To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentialityIG.github.io/about.html) and [Join](https://PrivacyConfidentialityIG.github.io/join.html) pages. 
 
