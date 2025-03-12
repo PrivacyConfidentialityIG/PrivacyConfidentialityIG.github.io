@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group’s objectives and structure can be found in our Charter."
-  },
-  {
-    "objectID": "about.html#membership-information",
-    "href": "about.html#membership-information",
-    "title": "About",
-    "section": "Membership Information",
-    "text": "Membership Information\nWe welcome anyone interested in the field of statistical data privacy and confidentiality. Our members are a diverse group of individuals from various sectors, including industry, government, and academia. To join us, please visit our Join page."
-  },
-  {
-    "objectID": "about.html#leadership-committees",
-    "href": "about.html#leadership-committees",
-    "title": "About",
-    "section": "Leadership Committees",
-    "text": "Leadership Committees\n\n\n\n\n\n\n\nCommittee\nMembers\n\n\n\n\nSteering\nSaki Kinney, Claire Bowen, Monika Hu, Alan Karr, Christine Task, Matt Williams, Carlos Soto, Jeremy Seeman, John Abowd, Harrison Quick\n\n\nProgram\nMichael Hawes, Norm Matloff, Valbona Bejleri, Jordan Awan, Milan Shen\n\n\nCommunications\nAlyssa Columbus, Jeremy Seeman, Claire Bowen, Milan Shen\n\n\nMembership\nChristine Task, Gary Howarth, Mike Jacobsen, Charlotte Looby\n\n\nNominations/Elections\nAref Dajani, Matt Williams, Monika Hu\n\n\n\nCommittee members noted in bold above are the chairs of their respective committees."
-  },
-  {
-    "objectID": "about.html#about-the-asa",
-    "href": "about.html#about-the-asa",
-    "title": "About",
-    "section": "About the ASA",
-    "text": "About the ASA\nThe ASA, established in 1839 in Boston, is the second oldest professional association in the United States that is still in operation. It is recognized as the largest global community of statisticians, often referred to as the “Big Tent for Statistics.” The ASA is dedicated to promoting excellence in the creation, application, and distribution of statistical science. This is achieved through various means such as organizing meetings, publishing research, providing services to members, offering education, granting accreditation, and advocating for the field.\nIn addition to these, the ASA also provides professional development programs for early-career statisticians and data scientists. It offers a platform for its members to connect with a global community of statisticians working in various sectors including industry, government, and academia. These members contribute to advancing research, promoting sound statistical practice, informing public policy, and improving human welfare."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Don’t miss out on our upcoming events! Whether we’re hosting, sponsoring, or attending, we’d love for you to join us. Check out the table below for more details."
-  },
-  {
-    "objectID": "events.html#upcoming-schedule",
-    "href": "events.html#upcoming-schedule",
-    "title": "Events",
-    "section": "Upcoming Schedule",
-    "text": "Upcoming Schedule\n\n\n\nDate\nEvent\n\n\n\n\nSeptember 13-14, 2024\nSave the Date – Join us for the first Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. Presentation abstracts must be submitted by February 29, 2024. For more details, visit https://privacypublicpolicy-conference.github.io/website/."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development."
-  },
-  {
-    "objectID": "index.html#we-look-forward-to-collaborating-with-you",
-    "href": "index.html#we-look-forward-to-collaborating-with-you",
-    "title": "Welcome!",
-    "section": "We Look Forward to Collaborating With You",
-    "text": "We Look Forward to Collaborating With You\n\nTo learn more about our initiatives and how you can contribute, please visit our About and Join pages.\nStay connected with us for the latest news and opportunities by joining our GitHub discussion forum and following our Mastodon handle, @PrivacyConfidentialityIG.\nIf you have any questions or suggestions for our group, please reach out to us via our Contact page."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Stay updated with the latest developments in our Interest Group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community."
-  },
-  {
-    "objectID": "news.html#feed",
-    "href": "news.html#feed",
-    "title": "News",
-    "section": "Feed",
-    "text": "Feed\n\n\n\nDate/Event\nNews Item\n\n\n\n\nJSM 2023\nThe ASA Privacy & Confidentiality Interest Group, initiated by Saki Kinney and Claire McKay Bowen, was approved by the ASA Council of Sections Governing Board."
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -110,5 +40,75 @@
     "title": "Resources",
     "section": "Additional Resources",
     "text": "Additional Resources\nIf you have additional resources that you’d like to share on this page, join our group and let us know on our discussion forum."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development."
+  },
+  {
+    "objectID": "index.html#we-look-forward-to-collaborating-with-you",
+    "href": "index.html#we-look-forward-to-collaborating-with-you",
+    "title": "Welcome!",
+    "section": "We Look Forward to Collaborating With You!",
+    "text": "We Look Forward to Collaborating With You!\n\nTo learn more about our initiatives and how you can contribute, please visit our About and Join pages.\nStay connected with us for the latest news and opportunities by joining our GitHub discussion forum and following our Mastodon handle, @PrivacyConfidentialityIG.\nIf you have any questions or suggestions for our group, please reach out to us via our Contact page."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Don’t miss out on our upcoming events! Whether we’re hosting, sponsoring, or attending, we’d love for you to join us. Check out the table below for more details."
+  },
+  {
+    "objectID": "events.html#upcoming-schedule",
+    "href": "events.html#upcoming-schedule",
+    "title": "Events",
+    "section": "Upcoming Schedule",
+    "text": "Upcoming Schedule\n\n\n\nDate\nEvent\n\n\n\n\nSeptember 13-14, 2024\nSave the Date – Join us for the first Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. Presentation abstracts must be submitted by February 29, 2024. For more details, visit https://privacypublicpolicy-conference.github.io/website/."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Stay updated with the latest developments in our Interest Group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community."
+  },
+  {
+    "objectID": "news.html#feed",
+    "href": "news.html#feed",
+    "title": "News",
+    "section": "Feed",
+    "text": "Feed\n\n\n\nDate/Event\nNews Item\n\n\n\n\nJSM 2023\nThe ASA Privacy & Confidentiality Interest Group, initiated by Saki Kinney and Claire McKay Bowen, was approved by the ASA Council of Sections Governing Board."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group’s objectives and structure can be found in our Charter."
+  },
+  {
+    "objectID": "about.html#membership-information",
+    "href": "about.html#membership-information",
+    "title": "About",
+    "section": "Membership Information",
+    "text": "Membership Information\nWe welcome anyone interested in the field of statistical data privacy and confidentiality. Our members are a diverse group of individuals from various sectors, including industry, government, and academia. To join us, please visit our Join page."
+  },
+  {
+    "objectID": "about.html#leadership-committees-2025",
+    "href": "about.html#leadership-committees-2025",
+    "title": "About",
+    "section": "Leadership Committees (2025)",
+    "text": "Leadership Committees (2025)\n\n\n\n\n\n\n\nCommittee\nMembers\n\n\n\n\nOfficers\nSaki Kinney (chair), Carlos Soto (chair-elect), Minsun Riddles (Secretary), Michael Hawes (program chair), Gary Howarth (program chair-elect), Jeremy Seeman (communications chair)\n\n\nProgram\nMichael Hawes (chair), Gary Howarth Norm Matloff, Valbona Bejleri\n\n\nCommunications\nJeremy Seeman (chair), Claire Bowen, Carlos Soto\n\n\nMembership\nMike Jacobsen (chair), Gary Howarth, Christine Task\n\n\nNominations/Elections\nAref Dajani (chair), Matt Williams, Monika Hu\n\n\nStudent Outreach/Young Professionals\nZeki Kazan (chair), Alyssa Columbus, Joshua Snoke"
+  },
+  {
+    "objectID": "about.html#about-the-asa",
+    "href": "about.html#about-the-asa",
+    "title": "About",
+    "section": "About the ASA",
+    "text": "About the ASA\nThe ASA, established in 1839 in Boston, is the second oldest professional association in the United States that is still in operation. It is recognized as the largest global community of statisticians, often referred to as the “Big Tent for Statistics.” The ASA is dedicated to promoting excellence in the creation, application, and distribution of statistical science. This is achieved through various means such as organizing meetings, publishing research, providing services to members, offering education, granting accreditation, and advocating for the field.\nIn addition to these, the ASA also provides professional development programs for early-career statisticians and data scientists. It offers a platform for its members to connect with a global community of statisticians working in various sectors including industry, government, and academia. These members contribute to advancing research, promoting sound statistical practice, informing public policy, and improving human welfare."
   }
 ]
