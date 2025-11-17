@@ -4,9 +4,20 @@ title: "Events"
 
 Don’t miss out on our upcoming events! Whether we’re hosting, sponsoring, or attending, we’d love for you to join us. Check out the table below for more details.
 
-## Upcoming Schedule
+If you know an event which is of interest to the PCIG community, please [get in touch with us](/contact.html) so we can add it to this page.
+
+### Upcoming Events
 
 | Date       | Event     |
 |------------|-----------|
-| September 13-14, 2024 | Save the Date -- Join us for the first Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. Presentation abstracts must be submitted by February 29, 2024. For more details, visit <https://privacypublicpolicy-conference.github.io/website/>. |
+| February 9-10, 2026 | The 2026 Privacy and Public Policy Conference (PPPC) program committee is now accepting submissions. Following the success of the [inaugural PPPC](https://privacypublicpolicy-conference.github.io/website/) in 2024 this event will bring together privacy experts, researchers, data stewards, data practitioners, and public policymakers. See [here for further information](https://community.amstat.org/discussion/2026-privacy-and-public-policy-conference-now-accepting-submissions). The deadline for submissions is December 15, 11:59 PM EST, 2025. |
+
+### Past Events
+
+| Date       | Event     |
+|------------|-----------|
+| August 2-7, 2025 | JSM 2025: There will be [22 sessions](https://drive.google.com/file/d/1MlvfEFgLLrlnPeYPvAO4m02KRBa7znA6/view) related to privacy and confidentiality, including an introductory overview lecture on data privacy and statistical science to be presented by Jerry Reiter and Claire Bowen. The PCIG JSM mixer will be held Tuesday, August 5 at 5:30PM in the Omni Hotel Room H-Cumberland 3. Come learn about PCIG and mingle with colleagues! Also stop by the PCIG community table #8 in the Expo. We look forward to seeing you there! |
+| September 13-14, 2024 | Join us for the inaugural Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. For more details, visit <https://privacypublicpolicy-conference.github.io/website/>. |
+| August 6, 2024 | JSM 2024: PCIG Program Chair Michael Hawes has compiled [a list of 24 sessions](https://docs.google.com/spreadsheets/d/1P41rcMJNxf8o7vAEXlAd4luOJtA9b9yk/edit?usp=sharing&ouid=116942261189134301485&rtpof=true&sd=true) related to privacy and confidentiality. Our JSM Mixer will be held Tuesday August 6th, 4pm at the Steeplejack Brewery, located at 2400 NE Broadway, Portland, OR 97232. Come learn about the new ASA Privacy and Confidentiality Interest Group, mingle with colleagues, and enjoy some food and drink in a cool local brewery! More details in [the flyer](https://docs.google.com/document/d/1dVUVQJlY_aPbmatelmEpyEGjsUmo1C_JG4Xe20iHK00/edit?usp=sharing). |
+
 

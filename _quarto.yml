@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ASA Privacy & Confidentiality Interest Group"
+  title: "ASA Privacy & Confidentiality Interest Group (ASA PCIG)"
   navbar:
     right:
       - href: index.qmd

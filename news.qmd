@@ -2,10 +2,14 @@
 title: "News"
 ---
 
-Stay updated with the latest developments in our Interest Group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community.
+Stay updated with the latest developments in our interest group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community.
 
-## Feed
+Our [Google Group](https://groups.google.com/g/amstat-pcig-membership) (accessible by members only) has additional news, updates and discussions from PCIG.
+
+### Feed
 
 | Date/Event | News Item |
 |------------|-----------|
+| Elections 2025 -- Now Open | Voting for PCIG officer positions is currently open. PCIG members should have received a link to vote [via email](https://groups.google.com/g/amstat-pcig-membership/c/DP4JMlRKpjE). (Please [contact us](/contact.html) if you haven't.) Voting closes November 21. We will be calling for nominations to [our various committees](/about.html#leadership-committees-2025) soon. |
+| Elections 2024 -- Results | Congratulations to our new offices: Saki Kinney (chair); Carlos Soto (chair-elect); Michael Hawes (program chair); Gary Howarth (program chair-elect); and Minsun Riddles (secretary). Thanks to our elections chair, Aref Dajani, for organizing the vote. | 
 | JSM 2023 | The ASA Privacy & Confidentiality Interest Group, initiated by [Saki Kinney](https://www.linkedin.com/in/saki-kinney-7236324/) and [Claire McKay Bowen](https://clairemckaybowen.com), was approved by the ASA Council of Sections Governing Board. |

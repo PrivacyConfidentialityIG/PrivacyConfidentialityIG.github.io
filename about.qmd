@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-We are the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA), a team of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group's objectives and structure can be found in [our Charter](https://docs.google.com/document/d/1M0YsrSjyIrgPf4sVSFX1OXS6_Ztc1B-s/edit?usp=sharing&ouid=116942261189134301485&rtpof=true&sd=true).
+We are the Privacy & Confidentiality Interest Group (PCIG) of the American Statistical Association (ASA), a community of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group's objectives and structure can be found in [our Charter](https://docs.google.com/document/d/1M0YsrSjyIrgPf4sVSFX1OXS6_Ztc1B-s/edit?usp=sharing&ouid=116942261189134301485&rtpof=true&sd=true).
 
 ## Membership Information
 
@@ -14,7 +14,7 @@ We welcome anyone interested in the field of statistical data privacy and confid
 |------|------|
 | Officers | Saki Kinney (chair), Carlos Soto (chair-elect), Minsun Riddles (Secretary), Michael Hawes (program chair), Gary Howarth (program chair-elect), Jeremy Seeman (communications chair) |
 | Program | Michael Hawes (chair), Gary Howarth Norm Matloff, Valbona Bejleri |
-| Communications | Jeremy Seeman (chair), Claire Bowen, Carlos Soto |
+| Communications | Jeremy Seeman (chair), Claire Bowen, Carlos Soto, James Bailie |
 | Membership | Mike Jacobsen (chair), Gary Howarth, Christine Task |
 | Nominations/Elections | Aref Dajani (chair), Matt Williams, Monika Hu |
 | Student Outreach/Young Professionals | Zeki Kazan (chair), Alyssa Columbus, Joshua Snoke | 

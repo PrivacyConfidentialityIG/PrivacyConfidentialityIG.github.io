@@ -2,12 +2,18 @@
 title: "Welcome!"
 ---
 
-Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA P&C IG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development.
+Welcome to the official website of the Privacy & Confidentiality Interest Group of the American Statistical Association (ASA PCIG). Our community is comprised of committed researchers and practitioners with a shared interest in the field of statistical data privacy and confidentiality. We aim to introduce statisticians and others to this rewarding field and foster collaborative methodological development.
 
-## We Look Forward to Collaborating With You!
+### We Look Forward to Collaborating With You!
 
-- To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentialityIG.github.io/about.html) and [Join](https://PrivacyConfidentialityIG.github.io/join.html) pages. 
+- To learn more about our initiatives and how you can contribute, please visit our [About](https://PrivacyConfidentialityIG.github.io/about.html) page. 
 
+- Membership to the PCIG is free and open to anyone. (You do not need to be a member of the ASA.) [Join here!](https://PrivacyConfidentialityIG.github.io/join.html)
+
+- Members can stay up to date with the PCIG community in our [Google Group](https://groups.google.com/g/amstat-pcig-membership). We encourage all members to post discussions, news and opportunities here.
+
+<!--
 - Stay connected with us for the latest news and opportunities by joining our [GitHub discussion forum](https://github.com/orgs/PrivacyConfidentialityIG/discussions) and following our Mastodon handle, [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG).
+-->
 
 - If you have any questions or suggestions for our group, please reach out to us via our [Contact](https://PrivacyConfidentialityIG.github.io/contact.html) page.
