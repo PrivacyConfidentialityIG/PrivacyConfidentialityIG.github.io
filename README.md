@@ -8,7 +8,7 @@ If you're interested in contributing code or resources, we invite you to [become
 
 1. Clone the repository and open the .Rproj file, making sure you have quarto installed in your .R environment.
 2. Make the changes you want to the .qmd files. Quarto docs: https://quarto.org/docs/guide/
-3. Run `quarto render` in Rstudio (button next to `save document`)
+3. Run `quarto render` in Rstudio (a button next to `save document`)
      - Note that one render will update all pages that you have edited. (Except `index.qmd` needs to be manually updated -- i.e. if you edit the index page, then you need to hit `render` on the index page, and if you update other pages, you need to hit `render` while not on the `index` page.)
      - It seems safer to run (this should re-render all pages from scratch):
      ```
