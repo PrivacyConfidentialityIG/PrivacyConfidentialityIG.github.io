@@ -10,7 +10,7 @@ Welcome to the official website of the Privacy & Confidentiality Interest Group 
 
 - Membership to the PCIG is free and open to anyone. (You do not need to be a member of the ASA.) [Join here!](https://PrivacyConfidentialityIG.github.io/join.html)
 
-- Members can stay up to date with the PCIG community in our [Google Group](https://groups.google.com/g/amstat-pcig-membership). We encourage all members to post discussions, news and opportunities here.
+- Members can stay up to date with the PCIG community in our [Google Group](https://groups.google.com/g/amstat-pcig-membership). We encourage all members to post discussions, news and opportunities there.
 
 <!--
 - Stay connected with us for the latest news and opportunities by joining our [GitHub discussion forum](https://github.com/orgs/PrivacyConfidentialityIG/discussions) and following our Mastodon handle, [@PrivacyConfidentialityIG](https://mastodon.social/@PrivacyConfidentialityIG).

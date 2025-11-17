@@ -4,11 +4,11 @@ title: "About"
 
 We are the Privacy & Confidentiality Interest Group (PCIG) of the American Statistical Association (ASA), a community of both members and non-members of the ASA who are united by our interests in statistical theory, methodology, and applications related to privacy and confidentiality. Our group embodies a wide range of active professional interests within the ASA’s purview and fosters an international community of statisticians. More information about our group's objectives and structure can be found in [our Charter](https://docs.google.com/document/d/1M0YsrSjyIrgPf4sVSFX1OXS6_Ztc1B-s/edit?usp=sharing&ouid=116942261189134301485&rtpof=true&sd=true).
 
-## Membership Information
+### Membership Information
 
 We welcome anyone interested in the field of statistical data privacy and confidentiality. Our members are a diverse group of individuals from various sectors, including industry, government, and academia. To join us, please visit [our Join page](https://PrivacyConfidentialityIG.github.io/join.html).
 
-## Leadership Committees (2025)
+### Leadership Committees (2025)
 
 | Committee | Members |
 |------|------|
@@ -20,7 +20,7 @@ We welcome anyone interested in the field of statistical data privacy and confid
 | Student Outreach/Young Professionals | Zeki Kazan (chair), Alyssa Columbus, Joshua Snoke | 
 
 
-## About the ASA
+### About the ASA
 
 The [ASA](https://www.amstat.org/), established in 1839 in Boston, is the second oldest professional association in the United States that is still in operation. It is recognized as the largest global community of statisticians, often referred to as the "Big Tent for Statistics." The ASA is dedicated to promoting excellence in the creation, application, and distribution of statistical science. This is achieved through various means such as organizing meetings, publishing research, providing services to members, offering education, granting accreditation, and advocating for the field.
 
