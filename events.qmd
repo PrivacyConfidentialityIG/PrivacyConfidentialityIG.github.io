@@ -10,7 +10,9 @@ If you know an event which is of interest to the PCIG community, please [get in 
 
 | Date       | Event     |
 |------------|-----------|
+| January 28, 2026 | SoDa Symposium In Celebration of Privacy Week: "Balancing Statistical and Non-Statistical Uses of Federal Data: Privacy, Governance, and Public Trust," with speakers Dr. Sallie Ann Keller, Michael B. Hawes, and Alexandra Wood (online). See [here for more details and to register](https://socialdatascience.umd.edu/january-28-2026-asa-soda-symposium-in-celebration-of-privacy-week-with-dr-sallie-ann-keller-michael-b-hawes-and-alexandra-wood/).
 | February 9-10, 2026 | The 2026 Privacy and Public Policy Conference (PPPC) program committee is now accepting submissions. Following the success of the [inaugural PPPC](https://privacypublicpolicy-conference.github.io/website/) in 2024 this event will bring together privacy experts, researchers, data stewards, data practitioners, and public policymakers. See [here for further information](https://community.amstat.org/discussion/2026-privacy-and-public-policy-conference-now-accepting-submissions). The deadline for submissions is December 15, 11:59 PM EST, 2025. |
+| August 1-6, 2026 | [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/): Details on privacy and confidentiality related sessions to come.
 
 ### Past Events
 

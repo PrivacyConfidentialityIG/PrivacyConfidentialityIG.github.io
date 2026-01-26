@@ -4,6 +4,8 @@ title: "Resources"
 
 Searching for statistical data privacy resources? You’re in the right place. Here we provide a range of resources, from CRAN packages to influential articles.
 
+We are actively looking to update these resources. Please [contact us](/contact.html) if you have suggestions, or [submit a pull request](https://github.com/PrivacyConfidentialityIG/PrivacyConfidentialityIG.github.io/pulls).
+
 ## Articles
 
 - [A Statistical Framework for Differential Privacy](https://doi.org/10.1198/jasa.2009.tm08651) (2012) by Larry Wasserman and Shuheng Zhou
