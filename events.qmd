@@ -10,6 +10,7 @@ If you know an event which is of interest to the PCIG community, please [get in 
 
 | Date       | Event     |
 |------------|-----------|
+| March 11-12, 2026 | [The 2026 Federal Committee on Statistical Methodology (FCSM) Conference](https://fcsmconf.org/) at the Suitland Federal Center in Suitland, MD. As part of this conference, **the PCIG is organising a mixer at Kirwan's on the Wharf** for March 12 starting at 5:30 -- [see here for more details](/FCSM26mixer.html). |
 | May 1, 2026 | [NYC Privacy Day 2026](https://forms.gle/1qvozjK98zL8sftFA), an in-person event organized and hosted this Spring by the NYU Tandon Center for Responsible AI ([NYU R/AI](https://r-ai.co)). |
 | June 1-2, 2026 | [TPDP 2026](https://tpdp.journalprivacyconfidentiality.org/2026/) (Theory and Practice of Differential Privacy), Boston. This year there will be a special session on Differential Privacy for Health and submissions aligned with this theme are especially encouraged. The deadline to submit a 4 page abstract is February 18, 2026 AoE. |
 | June 24-25, 2026 | [The 8th Annual PrivaCI Symposium](https://privaci.info/symposium/2026/cfp.html), University of Illinois at Urbana-Champaign. The aim of this symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy. The deadline for submissions is February 13, 2026 AoE. |
