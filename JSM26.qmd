@@ -6,13 +6,25 @@ The PCIG is organizing a number of events at [this year's JSM](https://ww2.amsta
 
 This page will be updated as more information becomes available. Please check back for updates.
 
-## OpenDP Hackathon:
+## OpenDP Hackathon
 
 OpenDP would like to offer a free hackathon centered on the [OpenDP Library's R API](https://docs.opendp.org/en/stable/api/r/) during the week of JSM if there is sufficient interest.
 
 Please fill out [this interest form](https://forms.gle/syTbLHtZXPmvgLGNA) by **Monday June 29th**. Marking your availability here isn't a firm commitment, but we will be using these numbers to go forward with planning.
 
-The hackathon will be led by the library architect, Michael Shoemate, and will start with a brief introduction and tutorial, followed by working on a real problem with the library. OpenDP plans to book a space within a couple blocks of the convention center for 4 hours, and they need to get a headcount, and what time would work best. If you have any questions about the event, please contact [contact\@opendp.org](mailto:contact@opendp.org).
+The hackathon will be led by the library architect, *Michael Shoemate*, and will start with a brief introduction and tutorial, followed by working on a real problem with the library. OpenDP plans to book a space within a couple blocks of the convention center for 4 hours, and they need to get a headcount, and what time would work best. If you have any questions about the event, please contact [contact\@opendp.org](mailto:contact@opendp.org).
+
+## Roundtable on a Differential Privacy Deployment Registry
+
+The PCIG is sponsoring a lunch roundtable on the National Institute of Standards and Technology (NIST) proposed guidelines for creating **"A Community-Driven Differential Privacy Deployment Registry."** The roundtable is being organized by *Gary Howarth* and *Salil Vadhan*.
+
+📅 **Tuesday, August 4, 12:30 PM–1:50 PM**  
+📍 **CC Ballroom Foyer** (Thomas M. Menino Convention & Exhibition Center)
+
+🔗 [More information on the JSM program website.](https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=8670)  
+
+
+> **Note:** Roundtables require an additional registration fee to attend.
 
 ---
 
