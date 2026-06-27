@@ -4,7 +4,7 @@ title: "News"
 
 Stay updated with the latest developments in our interest group and the contributions of our members to the statistical data privacy landscape. From new papers to insightful talks, find out what’s new in our community.
 
-Our [Google Group](https://groups.google.com/g/amstat-pcig-membership) (accessible by members only) has additional news, updates and discussions from PCIG.
+Our [Google Group](https://groups.google.com/g/amstat-pcig-membership) mailing list (accessible by members only) has additional news, updates and discussions from PCIG. We welcome you to join the group and participate in the conversation. If you have news to share, please [contact us](/contact.html) so we can add it to this page and post it on our mailing list.
 
 ### Feed
 
