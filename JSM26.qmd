@@ -14,7 +14,7 @@ Details TBA.
 
 OpenDP would like to offer a free hackathon centered on the [OpenDP Library's R API](https://docs.opendp.org/en/stable/api/r/) during the week of JSM if there is sufficient interest.
 
-Please fill out [this interest form](https://forms.gle/syTbLHtZXPmvgLGNA) by **Monday June 29th**. Marking your availability here isn't a firm commitment, but we will be using these numbers to go forward with planning.
+[comment]: # Please fill out [this interest form](https://forms.gle/syTbLHtZXPmvgLGNA) by **Monday June 29th**. Marking your availability here isn't a firm commitment, but we will be using these numbers to go forward with planning.
 
 The hackathon will be led by the library architect, *Michael Shoemate*, and will start with a brief introduction and tutorial, followed by working on a real problem with the library. OpenDP plans to book a space within a couple blocks of the convention center for 4 hours, and they need to get a headcount, and what time would work best. If you have any questions about the event, please contact [contact\@opendp.org](mailto:contact@opendp.org).
 
@@ -32,12 +32,14 @@ The PCIG is sponsoring a lunch roundtable on the National Institute of Standards
 
 ## Sessions on Privacy and Confidentiality at JSM 2026
 
-(Much of this has been gratefully copied from Michael Hawes's recent AMSTAT News piece.) Programming for this year’s JSM includes a number of excellent sessions on the subjects of privacy, confidentiality, disclosure limitation, synthetic data, and differential privacy, include 
+(Much of this has been gratefully copied from Michael Hawes's recent AMSTAT News piece.) Programming for this year’s JSM includes a number of excellent sessions on the subjects of privacy, confidentiality, disclosure limitation, synthetic data, and differential privacy, such as:
+
 - <a href="https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=5849" target="_blank">Updates on the 2030 Census Disclosure Avoidance Research Program</a> (Sunday, Aug. 2, 4:00–5:50 PM)
 - <a href="https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=5854" target="_blank">Synthetic Data: Applications Across the Federal Statistical System</a> (Monday, Aug. 3, 8:30–10:20 AM) 
 - <a href="https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=5743" target="_blank">Advancing Privacy and Usability: Applications for Data-Informed Decisionmaking in Society</a> (Monday, Aug. 3, 2:00–3:50 PM) 
 - <a href="https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=6876" target="_blank">IOL: Statistical Data Privacy for Transparent and Reproducible Research</a> (Tuesday, Aug. 4, 2:00–3:50 PM)
 - <a href="https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=5490" target="_blank">Rethinking Statistical Quality in a Data-Rich World – A Comprehensive Life Cycle Framework</a> – 2026 Deming Lecture by Sallie Ann Keller (Tuesday, Aug. 4, 4:00–5:50 PM)
+
 Together, these sessions offer an excellent opportunity to engage with current work on disclosure avoidance, synthetic data, privacy-preserving methods, transparency, reproducibility, and the practical governance challenges shaping the future of statistical disclosure limitation. We particularly want to highlight the first session, which will discuss the Department of Commerce's <a href=https://www.commerce.gov/opog/disclosure-avoidance-statistical-products", target="_blank">recent order on disclosure avoidance</a> and include an opportunity for the audience to ask questions to Commerce Department and Census Bureau leadership.
 
 For a full list of sessions on privacy and confidentiality at JSM 2026, <a href="https://docs.google.com/spreadsheets/d/1_Nm1s3BsezR_lsNQCNenLEGfmeKMosaU7fgD1oewOpE/edit?usp=sharing" target="_blank">see this list</a>. (Please let us know if we have missed any sessions and we will add them.)
