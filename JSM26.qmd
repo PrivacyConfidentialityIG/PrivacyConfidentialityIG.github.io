@@ -8,7 +8,21 @@ This page will be updated as more information becomes available. Please check ba
 
 ## PCIG Mixer and Happy Hour
 
-Details TBA.
+Join the Privacy & Confidentiality Interest Group (PCIG) for an informal mixer and happy hour during JSM!
+
+📅 **Tuesday, August 4, 5:00–7:00 PM**  
+📍 **Lord Hobo Brewing** (2 Drydock Ave, Boston)  
+*Just a short walk from the Boston Convention & Exhibition Center.*
+
+Whether you're a long-time PCIG member or are simply interested in privacy, confidentiality, disclosure limitation, synthetic data, or related topics, we'd love to meet you! Come connect with colleagues, make new connections, and learn more about the PCIG community.
+
+<div style="border-left: 4px solid #0d6efd; padding-left: 1rem; margin-top: 1rem;">
+This event is kindly *co-sponsored by <a href="https://docs.opendp.org/" target="_blank">OpenDP</a>*.
+
+🍻 Appetizers and drinks will be provided **while supplies last** on a first-come, first-served basis.
+</div>
+
+We look forward to seeing you there!
 
 ## OpenDP Hackathon
 
