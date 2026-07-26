@@ -26,6 +26,8 @@ We look forward to seeing you there!
 
 ## OpenDP Hackathon
 
+UPDATE: We decided to not hold a hackathon because there wasn't a time that worked for enough people, but folks interested in learning more about OpenDP or its R bindings specifically should talk to OpenDP team members at the mixer.
+
 OpenDP would like to offer a free hackathon centered on the [OpenDP Library's R API](https://docs.opendp.org/en/stable/api/r/) during the week of JSM if there is sufficient interest.
 
 [comment]: # (Please fill out [this interest form](https://forms.gle/syTbLHtZXPmvgLGNA) by **Monday June 29th**. Marking your availability here isn't a firm commitment, but we will be using these numbers to go forward with planning.)
