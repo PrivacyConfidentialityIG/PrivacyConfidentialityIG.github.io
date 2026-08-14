@@ -8,15 +8,18 @@ If you know an event which is of interest to the PCIG community, please [get in 
 
 ### Upcoming Events
 
+<div class="narrow-date">
 | Date       | Event     |
 |------------|-----------|
-| August 1–6, 2026 | [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/): The PCIG will be organizing a number of events at JSM – [please see here for more details](/JSM26.html). |
-| August 19, 2026 | Virtual Seminar: Disclosure Avoidance 101 (The Basics), 3–4pm ET, organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology. More details TBD. |
+| August 19, 2026 | Virtual Seminar: **Updates on Disclosure Avoidance at the U.S. Census Bureau**, 3–4pm ET, with panelists: *George Cook* (Acting Director), *Michael Lachanski* (Deputy Director for Data, Science, and Policy), and moderated by *Michael Hawes* (Senior Statistician for Scientific Communication). (This session is a repeat of a similar roundtable discussion conducted at JSM. It is organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology, in partnership with the American Statistical Association’s Committee on Privacy and Confidentiality.) <a href="https://amstat.zoom.us/webinar/register/WN_9jOEIjTOQLi1KyQ1sPtu1A" target="_blank">Register here to attend</a>. |
+</div>
 
 ### Past Events
 
+<div class="narrow-date">
 | Date       | Event     |
 |------------|-----------|
+| August 1–6, 2026 | [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/): The PCIG will be organizing a number of events at JSM – [please see here for more details](/JSM26.html). |
 | July 15, 2026 | Disclosure Avoidance and the Federal Statistical System (3–4pm ET): Webinar with panelists Robert Sivinski and Clara Reschovsky, and moderated by Michael Hawes. For more information and to register, see [the ASA's website](https://community.amstat.org/cpc/resources/webinars).|
 | June 24–25, 2026 | [The 8th Annual PrivaCI Symposium](https://privaci.info/symposium/2026/cfp.html), University of Illinois at Urbana-Champaign. The aim of this symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy. The deadline for submissions is February 13, 2026 AoE. |
 | June 1–2, 2026 | [TPDP 2026](https://tpdp.journalprivacyconfidentiality.org/2026/) (Theory and Practice of Differential Privacy), Boston. This year there will be a special session on Differential Privacy for Health and submissions aligned with this theme are especially encouraged. The deadline to submit a 4 page abstract is February 18, 2026 AoE. |
@@ -27,5 +30,5 @@ If you know an event which is of interest to the PCIG community, please [get in 
 | August 2–7, 2025 | JSM 2025: There will be [22 sessions](https://drive.google.com/file/d/1MlvfEFgLLrlnPeYPvAO4m02KRBa7znA6/view) related to privacy and confidentiality, including an introductory overview lecture on data privacy and statistical science to be presented by Jerry Reiter and Claire Bowen. The PCIG JSM mixer will be held Tuesday, August 5 at 5:30PM in the Omni Hotel Room H-Cumberland 3. Come learn about PCIG and mingle with colleagues! Also stop by the PCIG community table #8 in the Expo. We look forward to seeing you there! |
 | September 13–14, 2024 | Join us for the inaugural Privacy and Public Policy Conference to be held September 13 and 14, 2024 at the Georgetown Massive Data Institute in Washington, DC. The program will include a range of speakers, presentations, and networking opportunities all focused on the intersection of privacy law, privacy technology, and public policy challenges. For more details, visit [the conference website](https://privacypublicpolicy-conference.github.io/website/). |
 | August 6, 2024 | JSM 2024: PCIG Program Chair Michael Hawes has compiled [a list of 24 sessions](https://docs.google.com/spreadsheets/d/1P41rcMJNxf8o7vAEXlAd4luOJtA9b9yk/edit?usp=sharing&ouid=116942261189134301485&rtpof=true&sd=true) related to privacy and confidentiality. Our JSM Mixer will be held Tuesday August 6th, 4pm at the Steeplejack Brewery, located at 2400 NE Broadway, Portland, OR 97232. Come learn about the new ASA Privacy and Confidentiality Interest Group, mingle with colleagues, and enjoy some food and drink in a cool local brewery! More details in [the flyer](https://docs.google.com/document/d/1dVUVQJlY_aPbmatelmEpyEGjsUmo1C_JG4Xe20iHK00/edit?usp=sharing). |
-
+</div>
 

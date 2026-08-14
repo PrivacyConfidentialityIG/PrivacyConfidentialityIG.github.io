@@ -1,1 +1,24 @@
 /* css styles */
+
+.narrow-date table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.narrow-date colgroup col:first-child {
+  width: 14% !important;
+}
+
+.narrow-date colgroup col:last-child {
+  width: 86% !important;
+}
+
+.narrow-date table th:first-child,
+.narrow-date table td:first-child {
+  width: 14%;
+}
+
+.narrow-date table th:last-child,
+.narrow-date table td:last-child {
+  width: 86%;
+}
