@@ -11,7 +11,7 @@ If you know an event which is of interest to the PCIG community, please [get in 
 <div class="narrow-date">
 | Date       | Event     |
 |------------|-----------|
-| September 16, 2026 | Virtual Seminar: **Disclosure Avoidance 101: The Basics**, 3–4pm ET, with panelists: *Jeffrey Dalzell* (Census Bureau), *Safaa Amer* (Social Security Administration), and moderated by *Clara Reschovsky* (Bureau of Transportation Statistics). This seminar is organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology, in partnership with the American Statistical Association’s Committee on Privacy and Confidentiality. <a href="https://amstat.zoom.us/webinar/register/WN_cDhflspJTL6pjeoj0X2bWg#/registration" target="_blank">Register here to attend</a>. |
+| April 1-2, 2027 | 2026/2027 **OpenDP Community Meeting** (save the date): more information, when available, will be <a href="https://opendp.org/2026-2027-opendp-community-meeting/" target="_blank">posted on their website</a>. |
 </div>
 
 ### Past Events
@@ -19,6 +19,7 @@ If you know an event which is of interest to the PCIG community, please [get in 
 <div class="narrow-date">
 | Date       | Event     |
 |------------|-----------|
+| September 16, 2026 | Virtual Seminar: **Disclosure Avoidance 101: The Basics**, 3–4pm ET, with panelists: *Jeffrey Dalzell* (Census Bureau), *Safaa Amer* (Social Security Administration), and moderated by *Clara Reschovsky* (Bureau of Transportation Statistics). This seminar is organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology, in partnership with the American Statistical Association’s Committee on Privacy and Confidentiality. <a href="https://amstat.zoom.us/webinar/register/WN_cDhflspJTL6pjeoj0X2bWg#/registration" target="_blank">Register here to attend</a>. |
 | August 19, 2026 | Virtual Seminar: **Updates on Disclosure Avoidance at the U.S. Census Bureau**, 3–4pm ET, with panelists: *George Cook* (Acting Director), *Michael Lachanski* (Deputy Director for Data, Science, and Policy), and moderated by *Michael Hawes* (Senior Statistician for Scientific Communication). (This session is a repeat of a similar roundtable discussion conducted at JSM. It is organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology, in partnership with the American Statistical Association’s Committee on Privacy and Confidentiality.) <a href="https://amstat.zoom.us/webinar/register/WN_9jOEIjTOQLi1KyQ1sPtu1A" target="_blank">Register here to attend</a>. |
 | August 1–6, 2026 | [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/): The PCIG will be organizing a number of events at JSM – [please see here for more details](/JSM26.html). |
 | July 15, 2026 | Disclosure Avoidance and the Federal Statistical System (3–4pm ET): Webinar with panelists Robert Sivinski and Clara Reschovsky, and moderated by Michael Hawes. For more information and to register, see [the ASA's website](https://community.amstat.org/cpc/resources/webinars).|
