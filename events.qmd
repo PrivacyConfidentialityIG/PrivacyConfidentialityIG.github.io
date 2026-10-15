@@ -11,7 +11,8 @@ If you know an event which is of interest to the PCIG community, please [get in 
 <div class="narrow-date">
 | Date       | Event     |
 |------------|-----------|
-| April 1-2, 2027 | 2026/2027 **OpenDP Community Meeting** (save the date): more information, when available, will be <a href="https://opendp.org/2026-2027-opendp-community-meeting/" target="_blank">posted on their website</a>. |
+| October 21, 2026 | Virtual Seminar: **Disclosure Avoidance 101: The Basics (Part II)**, 3–4pm ET, with panelists: *Jeffrey Dalzell* (US Census Bureau), *Safaa Amer* (Social Security Administration), and moderated by *Clara Reschovsky* (Bureau of Transportation Statistics). This seminar, a continuation of a previous seminar in September, is organized by the Confidentiality and Data Access Committee of the Federal Committee on Statistical Methodology, in partnership with the American Statistical Association’s Committee on Privacy and Confidentiality. <a href="https://amstat.zoom.us/webinar/register/WN_J-tRXVxPRmWKXE8orRO-2g" target="_blank">Register here to attend</a>. |
+| April 1–2, 2027 | 2026/2027 **OpenDP Community Meeting**, Boston (save the date): more information, when available, will be <a href="https://opendp.org/2026-2027-opendp-community-meeting/" target="_blank">posted on their website</a>. |
 </div>
 
 ### Past Events
